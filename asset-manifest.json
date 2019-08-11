@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chungwoots/static/css/main.34de6062.chunk.css",
+    "main.js": "/chungwoots/static/js/main.d408d233.chunk.js",
+    "main.js.map": "/chungwoots/static/js/main.d408d233.chunk.js.map",
+    "runtime~main.js": "/chungwoots/static/js/runtime~main.6ab0a791.js",
+    "runtime~main.js.map": "/chungwoots/static/js/runtime~main.6ab0a791.js.map",
+    "static/js/2.e283ba77.chunk.js": "/chungwoots/static/js/2.e283ba77.chunk.js",
+    "static/js/2.e283ba77.chunk.js.map": "/chungwoots/static/js/2.e283ba77.chunk.js.map",
+    "static/css/3.8a0c19bf.chunk.css": "/chungwoots/static/css/3.8a0c19bf.chunk.css",
+    "static/js/3.209be30c.chunk.js": "/chungwoots/static/js/3.209be30c.chunk.js",
+    "static/js/3.209be30c.chunk.js.map": "/chungwoots/static/js/3.209be30c.chunk.js.map",
+    "static/js/4.370a0f55.chunk.js": "/chungwoots/static/js/4.370a0f55.chunk.js",
+    "static/js/4.370a0f55.chunk.js.map": "/chungwoots/static/js/4.370a0f55.chunk.js.map",
+    "static/js/5.5270b282.chunk.js": "/chungwoots/static/js/5.5270b282.chunk.js",
+    "static/js/5.5270b282.chunk.js.map": "/chungwoots/static/js/5.5270b282.chunk.js.map",
+    "index.html": "/chungwoots/index.html",
+    "precache-manifest.744f0098713c07297052336ce1f10163.js": "/chungwoots/precache-manifest.744f0098713c07297052336ce1f10163.js",
+    "service-worker.js": "/chungwoots/service-worker.js",
+    "static/css/3.8a0c19bf.chunk.css.map": "/chungwoots/static/css/3.8a0c19bf.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/chungwoots/static/css/main.34de6062.chunk.css.map",
+    "static/media/semantic.less": "/chungwoots/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
